@@ -18,5 +18,8 @@ int main() {
         case 4: cout << "The Notebook"; break;
         default: cout << "Invalid choice";
     }
+    char key;
+    cout << "\n\nType any letter and press Enter to close: ";
+    cin >> key;
     return 0;
 }
