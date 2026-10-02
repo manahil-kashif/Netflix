@@ -1,3 +1,8 @@
+// Movie Finder - inspired by Netflix
+// Input: a genre number (1 to 4)
+// Output: a movie suggestion
+// Logic: switch statement
+
 #include <iostream>
 using namespace std;
 
